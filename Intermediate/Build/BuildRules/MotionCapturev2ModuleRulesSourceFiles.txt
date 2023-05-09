@@ -1,3 +1,0 @@
-H:\UnrealEngine\MotionCapturev2\Source\MotionCapturev2\MotionCapturev2.Build.cs
-H:\UnrealEngine\MotionCapturev2\Source\MotionCapturev2.Target.cs
-H:\UnrealEngine\MotionCapturev2\Source\MotionCapturev2Editor.Target.cs

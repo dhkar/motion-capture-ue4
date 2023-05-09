@@ -6,4 +6,4 @@ Intermediate/ProjectFiles/
 Intermediate/ReimportCache/
 Intermediate/CachedAssetRegistry.bin
 Intermediate/TargetInfo.json
-Binaries/.*
+Binaries/Win64/
