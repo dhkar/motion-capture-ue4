@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\MotionCapturev2.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{AB4D126D-89EB-4BE4-9B55-2F0838976B85}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MotionCapturev2.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\MotionCapturev2Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{0595BE9D-1171-4341-870D-6A837640D904}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\MotionCapturev2">
+			<UniqueIdentifier>{50E745BB-8B9A-4163-9D96-69D0F5B489B7}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MotionCapturev2\MotionCapturev2.Build.cs">
+			<Filter>Source\MotionCapturev2</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\MotionCapturev2\MotionCapturev2.cpp">
+			<Filter>Source\MotionCapturev2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MotionCapturev2\MotionCapturev2.h">
+			<Filter>Source\MotionCapturev2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MotionCapturev2\MotionCapturev2Character.cpp">
+			<Filter>Source\MotionCapturev2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MotionCapturev2\MotionCapturev2Character.h">
+			<Filter>Source\MotionCapturev2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MotionCapturev2\MotionCapturev2GameMode.cpp">
+			<Filter>Source\MotionCapturev2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MotionCapturev2\MotionCapturev2GameMode.h">
+			<Filter>Source\MotionCapturev2</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
