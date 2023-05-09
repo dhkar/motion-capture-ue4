@@ -1,1 +1,9 @@
 .vs/MotionCapturev2/
+Intermediate/AssetRegistryCache/
+Intermediate/Build/
+Intermediate/Config/
+Intermediate/ProjectFiles/
+Intermediate/ReimportCache/
+Intermediate/CachedAssetRegistry.bin
+Intermediate/TargetInfo.json
+Binaries/.*
